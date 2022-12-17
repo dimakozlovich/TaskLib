@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\Calculate_Area_LIb\Calculate_Area_LIb\obj\Debug\net6.0\Calculate_Area_LIb.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Calculate_Area_LIb\Calculate_Area_LIb\obj\Debug\net6.0\Calculate_Area_LIb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Calculate_Area_LIb\Calculate_Area_LIb\obj\Debug\net6.0\Calculate_Area_LIb.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Calculate_Area_LIb\Calculate_Area_LIb\obj\Debug\net6.0\Calculate_Area_LIb.AssemblyInfo.cs
+C:\Users\User\source\repos\Calculate_Area_LIb\Calculate_Area_LIb\obj\Debug\net6.0\Calculate_Area_LIb.csproj.CoreCompileInputs.cache
